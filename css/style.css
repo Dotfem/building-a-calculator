@@ -1,0 +1,35 @@
+body{
+    background: skyblue;
+    
+}
+    * {
+        box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+    }
+    .wrap{
+        width: 300px;
+        margin:auto;
+        height: auto;
+        background: black;
+        padding: 15px;
+    }
+    input[type=text] {
+        width: 100%;
+        padding: 10px;
+        font-size: 22px;
+        font-weight: bold;
+        margin-top: 20px;
+        border-radius: 5px;
+    }
+    input[type=button] {
+        width: 64px;
+        padding: 15px;
+        font-size: 20px;
+        font-weight: bold;
+        border-radius: 5px;
+
+    }
+    #del{
+        width: 100%;
+    }
